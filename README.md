@@ -45,6 +45,27 @@ In this interactive game, kids take on the role of a cheerful character walking 
 - Opportunities to learn through fun and engaging activities.  
 - Encourages curiosity, exploration, and problem-solving skills.  
 ---
+## **Technology**  
+This game is built using [Kaboom.js](https://github.com/replit/kaboom) and hosted on [Netlify](https://www.netlify.com/).  
+
+### **Kaboom.js**  
+Kaboom.js is a JavaScript game programming library designed for simplicity and speed.  
+
+#### **Why Kaboom.js?**  
+- **Easy to Learn**: Perfect for creating 2D games with minimal setup and straightforward syntax.  
+- **Performance Optimized**: Lightweight and ensures smooth gameplay even on low-end devices.  
+- **Rich Features**: Includes built-in support for sprites, animations, physics, and sound effects.  
+- **Open Source**: Actively maintained and community-driven, providing flexibility for future improvements.  
+
+### **Hosting on Netlify**  
+The game is hosted on Netlify, a powerful platform for deploying and managing web applications.  
+
+#### **Why Netlify?**  
+- **Fast and Reliable**: Ensures quick load times and stable performance for users.  
+- **Free Hosting for Small Projects**: Ideal for projects like this beta version of the game.  
+- **Continuous Deployment**: Automatically updates the game whenever new changes are pushed.  
+- **Custom Domains and HTTPS**: Offers secure hosting with a professional touch.  
+
 # **Future Improvements**  
 Actively working to enhance the experience. Planned improvements include:  
 - Simplifying gameplay mechanics and instructions to ensure young learners can easily understand and enjoy the game.
