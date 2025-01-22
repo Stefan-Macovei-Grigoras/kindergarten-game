@@ -14,16 +14,14 @@ In this interactive game, kids take on the role of a cheerful character walking 
 ---
 
 ## **How to Play**  
-1. **Start at Home** 🏡  
-   Begin your journey by packing your bag! Pick up essential items like a lunchbox, books, and more.  
 
-2. **Explore the Neighborhood** 🌳  
+1. **Explore the Neighborhood** 🌳  
    Walk through a lively world filled with friendly neighbors, playful animals, and interactive objects.  
 
-3. **Learn While You Play** 🎓  
+2. **Learn While You Play** 🎓  
    Complete mini-games and answer questions to unlock fun rewards and make progress.  
 
-4. **Reach the School** 🏫  
+3. **Reach the School** 🏫  
    Arrive at school on time and receive a gold star for your efforts!  
 
 ---
@@ -48,8 +46,5 @@ In this interactive game, kids take on the role of a cheerful character walking 
 Ready to begin your adventure? Simply open the game in your browser, pick your character, and let the journey to school begin!  
 
 ---
-
-### **Have Feedback?**  
-We’re always looking to improve! Share your thoughts or suggestions by reaching out to us at [support@kindergartenadventure.com](mailto:support@kindergartenadventure.com).  
 
 Happy learning! 🎉  
