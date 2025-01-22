@@ -45,7 +45,7 @@ In this interactive game, kids take on the role of a cheerful character walking 
 - Opportunities to learn through fun and engaging activities.  
 - Encourages curiosity, exploration, and problem-solving skills.  
 ---
-## **Technology**  
+# **Technology**  
 This game is built using [Kaboom.js](https://github.com/replit/kaboom) and hosted on [Netlify](https://www.netlify.com/).  
 
 ### **Kaboom.js**  
