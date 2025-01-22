@@ -45,6 +45,7 @@ In this interactive game, kids take on the role of a cheerful character walking 
 ## **Get Started**  
 Ready to begin your adventure? Simply open the game in your browser, pick your character, and let the journey to school begin!  
 
+#[Try the game](https://shimmering-speculoos-1239f5.netlify.app/)
 ---
 
 Happy learning! 🎉  
