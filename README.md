@@ -2,6 +2,11 @@
 
 Welcome to *Kindergarten Adventure: Walk to School*! 🌟 This fun and educational 2D open-world game is designed to help young learners explore and learn while navigating from home to school.
 
+## **Get Started**  
+Ready to begin your adventure? Simply open the game in your browser, pick your character, and let the journey to school begin!  
+
+[Try the game](https://shimmering-speculoos-1239f5.netlify.app/)
+
 ---
 
 ## **Game Overview**  
@@ -40,12 +45,6 @@ In this interactive game, kids take on the role of a cheerful character walking 
 - Opportunities to learn through fun and engaging activities.  
 - Encourages curiosity, exploration, and problem-solving skills.  
 
----
-
-## **Get Started**  
-Ready to begin your adventure? Simply open the game in your browser, pick your character, and let the journey to school begin!  
-
-##[Try the game](https://shimmering-speculoos-1239f5.netlify.app/)
 ---
 
 Happy learning! 🎉  
