@@ -17,7 +17,7 @@ In this interactive game, kids take on the role of a cheerful character walking 
 - **Counting and Numbers** 🧮  
 - **Shapes and Colors** 🎨  
 - **Letters and Words** 🔤  
-- **Good Manners and Safety Tips** 🚦
+- **Safety Tips** 🚦
   
 ---
 ## **How to Play**  
